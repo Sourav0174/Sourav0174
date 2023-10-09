@@ -13,10 +13,6 @@
 
 💡 I firmly believe that coding is an art that can shape the future. It's not just about writing lines of code; it's about solving real-world problems and making people's lives easier. My GitHub repository is a canvas where I paint my coding journey, from pet projects to contributions to open-source projects that inspire me.
 
-🌐 Let's Connect:
-   - 📚 LinkedIn
-   - 🐦 Twitter: 
-
 📫 I'm always open to collaboration and exciting projects. If you're passionate about Flutter, mobile app development, or tech in general, don't hesitate to reach out. Let's brainstorm, code, and innovate together!
 
 🌈 When I'm not immersed in code, you'll find me sipping coffee, exploring the latest trends in app design, or delving into a good book. Remember, in the world of technology, learning is a never-ending journey, and I'm excited to see where it takes us next.
