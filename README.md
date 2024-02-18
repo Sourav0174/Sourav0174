@@ -6,7 +6,7 @@
 
 🛠️ Tech Stack:
    - 📱 Flutter & Dart
-   - ☕ Python 
+   - ☕ Javascript
    - 📦 Firebase (for powerful backend support)
    - 🧰 Git & GitHub (because collaboration is key)
    - 🚀 VS Code enthusiast
