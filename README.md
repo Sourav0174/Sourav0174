@@ -8,6 +8,9 @@
    - 📱 Flutter & Dart
    - ☕ Javascript(node.js, express.js)
    - 📦 Firebase (for powerful backend support)
+   -    Mongo DB
+   -    PostgreSQL
+   -    BLOC
    - 🧰 Git & GitHub (because collaboration is key)
    - 🚀 VS Code enthusiast
 
