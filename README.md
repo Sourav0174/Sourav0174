@@ -74,6 +74,6 @@ I’ve worked on **real-world apps with live deployments**, integrating **AI, re
 
 ## 💬 Quote I Live By
 
-> “Build real things. Solve real problems. Keep leveling up.” 🚀
+> “Excellent work attracts Excellent opportunities.”
 
 ---
