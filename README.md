@@ -1,23 +1,113 @@
-👋 Hello, fellow coders! I'm Sourav, and I'm on a mission to craft exceptional mobile experiences through Flutter.
+# 👋 Hey, I'm Sourav
 
-🚀 I'm an enthusiastic Flutter developer with a deep love for creating beautiful, efficient, and user-friendly applications. Currently, I'm balancing my academic pursuits as a BCA (Bachelor of Computer Applications) student at Chandigarh University with my passion for software development.
+🚀 **Flutter & Full-Stack Developer | Building Real-World Mobile Apps with AI**
 
-📱 My journey into the world of mobile app development began with a fascination for the endless possibilities of Flutter and the Dart programming language. With each line of code, I strive to turn ideas into innovative mobile solutions. Whether it's building a sleek user interface, optimizing performance, or solving complex problems, I'm committed to delivering top-notch applications.
+---
 
-🛠️ Tech Stack:
-   - 📱 Flutter & Dart
-   - ☕ Javascript(node.js, express.js)
-   - 📦 Firebase (for powerful backend support)
-   -    Mongo DB
-   -    PostgreSQL
-   -    BLOC
-   - 🧰 Git & GitHub (because collaboration is key)
-   - 🚀 VS Code enthusiast
+## 🧑‍💻 About Me
 
-💡 I firmly believe that coding is an art that can shape the future. It's not just about writing lines of code; it's about solving real-world problems and making people's lives easier. My GitHub repository is a canvas where I paint my coding journey, from pet projects to contributions to open-source projects that inspire me.
+I’m a **Flutter developer with full-stack experience**, focused on building **scalable, production-ready mobile applications**.
 
-📫 I'm always open to collaboration and exciting projects. If you're passionate about Flutter, mobile app development, or tech in general, don't hesitate to reach out. Let's brainstorm, code, and innovate together!
+I’ve worked on **real-world apps with live deployments**, integrating **AI, real-time systems, and backend APIs** to create impactful user experiences.
 
-🌈 When I'm not immersed in code, you'll find me sipping coffee, exploring the latest trends in app design, or delving into a good book. Remember, in the world of technology, learning is a never-ending journey, and I'm excited to see where it takes us next.
+💡 I don’t just build apps — I build **solutions that solve real problems**.
 
-🚀 "Code, Coffee, Flutter, Repeat" is my mantra. Join me on this exciting adventure through the digital realm!
+---
+
+## 🚀 What I Do
+
+* 📱 Build cross-platform mobile apps using **Flutter & Bloc**
+* ⚙️ Develop backend systems using **Node.js & FastAPI**
+* 🤖 Integrate **AI (Gemini) & Chatbots**
+* 🌍 Work with **real-time data, APIs, and cloud services**
+* 🎯 Focus on **clean architecture & scalable systems**
+
+---
+
+## 🏆 Experience Highlights
+
+* 💼 6-month internship working on **4 production-level apps**
+* 💳 Implemented **Payment Integration (Stripe, etc.)**
+* 📍 Built **Advanced GPS Tracking** (background + terminated state)
+* 🔔 Integrated **Push Notifications (FCM)**
+* 🗺️ Worked with **Maps & Location-based features**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core
+
+* Flutter, Dart, Bloc (State Management)
+* Clean Architecture, Responsive UI
+
+### ⚙️ Backend
+
+* Node.js (Express), FastAPI
+* REST API Development
+
+### 🗄️ Database
+
+* Firebase, MongoDB, PostgreSQL
+
+### 🤖 AI & Tools
+
+* Gemini AI, Chatbot Systems
+* GitHub Actions, Postman, Figma
+
+---
+
+## 🌟 Featured Projects
+
+### 🧠 RiseAbove (AI Mental Health App)
+
+* AI-powered mental health support using **Gemini AI**
+* Backend with **Node.js + Express**
+* Personalized recommendations system
+
+---
+
+### 📱 Flexx (Social Media App with AI Bot)
+
+* Real-time social media platform
+* Integrated **AI chatbot for engagement**
+* Built with **Flutter + Firebase + Bloc**
+
+---
+
+### 💬 Talksy (Real-Time Chat App)
+
+* Real-time messaging with **Firebase Firestore**
+* Authentication + Profile Management
+* Dark/Light mode support
+
+---
+
+## 📊 GitHub Stats
+
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav0174\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 Portfolio: https://sourav0174.github.io/sourav/
+* 🔗 LinkedIn: https://www.linkedin.com/in/sourav-791120257/
+* 🧑‍💻 GitHub: https://github.com/Sourav0174
+
+---
+
+## ⚡ Current Focus
+
+* 🚀 Open Source Contributions
+* 🧠 Advanced Flutter Architecture
+* 🤖 AI Integration in Mobile Apps
+* 🌍 Preparing for Remote Opportunities
+
+---
+
+## 💬 Quote I Live By
+
+> “Build real things. Solve real problems. Keep leveling up.” 🚀
+
+---
