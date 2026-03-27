@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sourav
 
-🚀 **Flutter & Full-Stack Developer | Building Real-World Mobile Apps with AI**
+**Flutter & Full-Stack Developer | Building Real-World Mobile Apps with AI**
 
 ---
 
@@ -14,7 +14,7 @@ I’ve worked on **real-world apps with live deployments**, integrating **AI, re
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 * 📱 Build cross-platform mobile apps using **Flutter & Bloc**
 * ⚙️ Develop backend systems using **Node.js & FastAPI**
@@ -36,7 +36,7 @@ I’ve worked on **real-world apps with live deployments**, integrating **AI, re
 
 ## 🛠️ Tech Stack
 
-### 🚀 Core
+### Core
 
 * Flutter, Dart, Bloc (State Management)
 * Clean Architecture, Responsive UI
@@ -57,38 +57,6 @@ I’ve worked on **real-world apps with live deployments**, integrating **AI, re
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧠 RiseAbove (AI Mental Health App)
-
-* AI-powered mental health support using **Gemini AI**
-* Backend with **Node.js + Express**
-* Personalized recommendations system
-
----
-
-### 📱 Flexx (Social Media App with AI Bot)
-
-* Real-time social media platform
-* Integrated **AI chatbot for engagement**
-* Built with **Flutter + Firebase + Bloc**
-
----
-
-### 💬 Talksy (Real-Time Chat App)
-
-* Real-time messaging with **Firebase Firestore**
-* Authentication + Profile Management
-* Dark/Light mode support
-
----
-
-## 📊 GitHub Stats
-
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav0174\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 Portfolio: https://sourav0174.github.io/sourav/
@@ -98,8 +66,6 @@ I’ve worked on **real-world apps with live deployments**, integrating **AI, re
 ---
 
 ## ⚡ Current Focus
-
-* 🚀 Open Source Contributions
 * 🧠 Advanced Flutter Architecture
 * 🤖 AI Integration in Mobile Apps
 * 🌍 Preparing for Remote Opportunities
