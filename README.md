@@ -118,13 +118,13 @@ An AI-powered API observability platform that helps developers monitor APIs with
 # 🌍 Connect
 
 🌐 Portfolio  
-https://sourav0174.github.io/sourav/
+https://sourav-portfolio-tan.vercel.app/
 
 💼 LinkedIn  
 https://linkedin.com/in/sourav-791120257
 
 📧 Email  
-your-email@example.com
+info.sourav174@gmail.com
 
 ---
 
