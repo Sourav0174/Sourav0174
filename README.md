@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Flutter+Developer;FastAPI+Backend+Developer;Building+AI+Powered+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=f41709&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Flutter+Developer;FastAPI+Backend+Developer;Building+AI+Powered+Products" />
 </p>
 
 # Hi, I'm Sourav Kumar 👋
