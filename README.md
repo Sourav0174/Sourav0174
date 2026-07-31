@@ -128,15 +128,6 @@ info.sourav174@gmail.com
 
 ---
 
-## 🎯 2026 Goals
-
-- Build successful SaaS products
-- Master System Design
-- Become an AI-focused Full-Stack Engineer
-- Land a high-impact remote engineering role
-
----
-
 > *"Build things that people actually use."*
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sourav0174&label=Profile%20Views&color=0e75b6&style=flat"/>
